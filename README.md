@@ -1,2 +1,2 @@
-# data_structures
-Some more or less general data structures, implemented primarily in C++. E. g. segment trees, interval set
+# interval_set
+Interval set data structure implemented in C++.
